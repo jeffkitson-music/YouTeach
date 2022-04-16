@@ -1,6 +1,9 @@
 # 🎓 YouTeach Instructions
 Hello World. Lorem Ipsum...
 
+## ▶️ Getting Started
+Lorem Ipsum...
+
 ## 🎞️ Saving Video
 Lorem Ipsum...
 
