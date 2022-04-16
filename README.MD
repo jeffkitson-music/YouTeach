@@ -1,5 +1,5 @@
 # Need Instructions?
-[HERE IS THE INSTRUCTIONS PAGE!](https://google.com)
+[HERE IS THE INSTRUCTIONS PAGE!](INSTRUCTIONS.md)
 
 # 🎓 YouTeach
 A minimalist GUI wrapper of [pytube](https://github.com/pytube/pytube) specifically designed for teachers. 
